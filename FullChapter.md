@@ -160,30 +160,6 @@ Teachers can monitor student interactions with the AI tutors, identify common ar
 - Improved student confidence and self-efficacy
 - Scalable support for large student cohorts
 
----
-
-### Best Practices for Successful GenAI Adoption in Schools
-
-The following best practices are synthesized from current research and expert recommendations. They are intended as practical guidance for schools and educators seeking to implement generative AI effectively and responsibly. These are not real-world case studies, but rather a set of recommended approaches to maximize benefits and minimize risks:
-
-- **Start with Clear Goals:** Define the educational objectives for GenAI adoption, such as improving personalized learning, enhancing creativity, or streamlining assessment. Align AI initiatives with school values and curriculum priorities.
-
-- **Engage Stakeholders Early:** Involve teachers, students, parents, and administrators in planning and decision-making. Gather input on needs, expectations, and concerns to ensure buy-in and relevance.
-
-- **Pilot and Iterate:** Begin with small-scale pilots to test GenAI tools in real classroom settings. Collect feedback, monitor outcomes, and refine implementation before scaling up.
-
-- **Prioritize Professional Development:** Provide ongoing training and support for teachers to build confidence and competence in using GenAI. Encourage peer learning and sharing of best practices.
-
-- **Foster a Culture of Responsible Use:** Establish clear guidelines for ethical AI use, academic integrity, and data privacy. Educate students about responsible AI interaction, digital citizenship, and critical evaluation of AI-generated content.
-
-- **Ensure Equity and Accessibility:** Address technology access gaps and design AI-supported activities that are inclusive of all learners, including those with disabilities or language barriers.
-
-- **Monitor and Evaluate:** Continuously assess the impact of GenAI on learning outcomes, engagement, and equity. Use data to inform improvements and ensure alignment with educational goals.
-
-- **Promote Transparency and Trust:** Communicate openly about how GenAI tools work, their limitations, and how data is used. Encourage questions and feedback from the school community.
-
-By following these best practices, schools can create a supportive environment for GenAI adoption—one that empowers educators and students while safeguarding ethical standards and educational quality.
-
 ## 6. Opportunities and Challenges
 
 The integration of generative AI into education brings forth a wealth of opportunities, but also introduces complex challenges that must be addressed to ensure responsible and effective adoption.
