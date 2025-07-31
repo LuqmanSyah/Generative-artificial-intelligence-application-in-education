@@ -1,0 +1,27 @@
+- I am currently creating a chapter Generative artificial intelligence application in education of a book Innovations and Challenges of Agentic AI and Intelligent Agents in Education to be published on igi-global.
+
+- Use English for writing.
+
+- Chapter Overview:  
+This chapter explores the transformative impact of generative artificial intelligence (GenAI) on educational practices, environments, and learner experiences. With the advent of large language models, text-to-image generators, and multimodal AI systems, education is experiencing a paradigm shift in content creation, personalized learning, and assessment methodologies. The chapter examines how generative AI empowers intelligent agents to support teachers and students, generate adaptive learning materials, automate feedback, and foster creativity in classrooms.
+Key topics include the integration of generative AI tools into learning management systems, the emergence of AI-powered tutoring agents, and their role in scaffolding student understanding. The chapter also addresses challenges such as academic integrity, data privacy, bias mitigation, and the evolving responsibilities of educators in an AI-augmented learning ecosystem. Case studies highlight successful GenAI deployments in K-12 and higher education, including automated essay grading, personalized curricular pathways, and creative project-based learning. Comparative analyses of different GenAI models and agentic frameworks in education provide practical insights for researchers and practitioners.
+
+- Introduction:
+The field of education is undergoing a profound transformation, shaped in large part by the increasing presence of Artificial Intelligence technologies that can act, respond, and even adapt autonomously. Among the most promising—and at the same time most debated—developments are agentic AI systems and intelligent agents. These are not merely tools that follow predefined instructions; they are systems designed to interpret, decide, and act with a degree of independence in interaction with learners and educators.
+Such agents already appear in a variety of forms: virtual tutors that adjust to a student's pace, conversational bots that assist with questions and feedback, robotic companions in classrooms, and recommendation systems that shape learning trajectories. While these innovations promise new levels of personalization and support, they also raise a series of important questions. What does it mean for an AI system to be ‘agentic’ in an educational context? How do such systems affect the role of the teacher, or the autonomy of the learner? What ethical, psychological, and cultural implications arise when machines begin to take on responsibilities traditionally reserved for humans?
+This book aims to explore these questions in depth. It brings together diverse perspectives—from theory to practice, from design to policy—in order to better understand both the promise and the complexity of integrating intelligent agents into education. By fostering interdisciplinary dialogue, we hope to illuminate how these technologies are not only changing educational systems, but also challenging our most basic assumptions about teaching and learning.
+
+- Objective:
+The primary goal of this volume is to offer a well-rounded and critical examination of how agentic AI and intelligent agents are shaping contemporary education. The book will not only showcase innovative applications, but also engage with the broader issues that accompany their adoption. In doing so, it intends to bridge the gap between technological development and pedagogical reflection.
+Specifically, the book seeks to:
+Provide a nuanced understanding of how agentic AI systems operate in learning environments;
+Discuss real-world examples of intelligent agents used across various educational levels and contexts;
+Examine the impact of these technologies on teaching practices, learner experiences, and educational equity;
+Contribute to ongoing conversations about ethics, trust, transparency, and human-AI collaboration in education;
+Offer guidance and inspiration to those designing, implementing, or regulating AI systems for learning.
+By bringing together case studies, conceptual analyses, design perspectives, and critical reflections, the book aims to become a valuable reference point for researchers, educators, developers, and policy professionals seeking to understand or shape the future of education with AI.
+
+- Target Audience:
+This book is written with a broad yet focused readership in mind. First and foremost, it will appeal to scholars and postgraduate students interested in educational technology, AI in education, learning sciences, and digital pedagogy. However, its relevance extends well beyond academia.
+Educators—both at school and university level—who are beginning to encounter AI tools in their practice will find insight into the implications and possibilities of these systems. Educational technologists, software developers, and instructional designers involved in creating AI-powered learning tools will benefit from the book’s applied focus and theoretical grounding. Likewise, policymakers and leaders in educational institutions or government agencies will find valuable input for shaping informed, ethical, and sustainable strategies for AI integration in education.
+The content is designed to be accessible without oversimplifying complex issues, ensuring that readers from various professional and disciplinary backgrounds can engage meaningfully with the ideas presented.
