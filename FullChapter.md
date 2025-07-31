@@ -150,8 +150,51 @@ By proactively addressing these opportunities and challenges, educational instit
 
 ## 7. Comparative Analyses
 
-- **GenAI Models:** Comparing models such as GPT, Claude, and open-source alternatives reveals differences in accuracy, adaptability, and transparency. GPT models excel in language fluency, while open-source models offer greater customizability and control.
-- **Agentic vs. Non-Agentic Frameworks:** Agentic AI systems, which act autonomously and adaptively, provide more personalized and interactive learning experiences compared to non-agentic, rule-based systems. The choice of framework impacts scalability, user trust, and educational outcomes.
+Comparative analyses are essential for understanding the strengths, limitations, and suitability of different generative AI models and frameworks in educational contexts. This section provides a deeper examination of key GenAI models and the distinction between agentic and non-agentic systems, highlighting their implications for teaching, learning, and institutional adoption.
+
+### 7.1 Comparison of GenAI Models
+
+Generative AI models vary significantly in their architecture, capabilities, and openness. The most prominent models in education include proprietary systems like OpenAI’s GPT series, Anthropic’s Claude, and a range of open-source alternatives such as Llama and Mistral. Key comparative dimensions include:
+
+- **Language Fluency and Comprehension:** GPT-4 and Claude are recognized for their advanced natural language understanding, producing coherent, contextually relevant, and human-like responses. Open-source models have made rapid progress, but may lag slightly in nuanced comprehension or creative generation, depending on training data and scale.
+- **Customizability and Control:** Open-source models (e.g., Llama, Mistral) offer greater flexibility for fine-tuning, domain adaptation, and on-premises deployment, which is valuable for institutions with specific curricular needs or data privacy requirements. Proprietary models often restrict customization but provide robust, out-of-the-box performance.
+- **Transparency and Explainability:** Open-source models allow for greater inspection of model architecture and training data, supporting transparency and research. Proprietary models are typically less transparent, which can be a concern for educators seeking to understand or audit AI-generated outputs.
+- **Cost and Accessibility:** Open-source models can be deployed at lower cost, especially at scale, and do not require ongoing licensing fees. However, they may require more technical expertise to implement and maintain. Commercial models offer managed services and technical support, but costs can be prohibitive for some institutions.
+- **Ethical and Privacy Considerations:** Institutions must weigh the trade-offs between data privacy, security, and compliance. Open-source models can be run locally, minimizing data exposure, while commercial models may process data externally, raising privacy concerns.
+
+**Table 1. Comparative Overview of GenAI Models in Education**
+
+| Model Type         | Language Fluency | Customizability | Transparency | Cost       | Privacy Control |
+| ------------------ | ---------------- | --------------- | ------------ | ---------- | --------------- |
+| GPT-4 (OpenAI)     | Excellent        | Limited         | Low          | High       | Moderate        |
+| Claude (Anthropic) | Excellent        | Limited         | Low          | High       | Moderate        |
+| Llama (Meta)       | Good             | High            | High         | Low/Medium | High            |
+| Mistral            | Good             | High            | High         | Low/Medium | High            |
+
+### 7.2 Agentic vs. Non-Agentic Frameworks
+
+The distinction between agentic and non-agentic AI frameworks is critical in shaping educational experiences:
+
+- **Agentic AI Systems:** These systems possess a degree of autonomy, adaptability, and decision-making capability. They can interpret learner input, set goals, and take actions to support learning without constant human intervention. Examples include intelligent tutoring systems that adaptively scaffold student understanding, or AI-powered agents that personalize feedback and learning pathways. Agentic systems foster greater interactivity, personalization, and engagement, but also require careful design to ensure transparency, trust, and alignment with pedagogical goals.
+- **Non-Agentic (Rule-Based) Systems:** These follow predefined rules and scripts, offering limited adaptability. While reliable and predictable, they lack the flexibility to respond dynamically to individual learner needs. Non-agentic systems are easier to audit and control, but may not provide the depth of support or personalization possible with agentic AI.
+
+**Comparative Implications:**
+
+- **Scalability:** Agentic systems can support large, diverse student populations by automating personalized interventions, while non-agentic systems may require more manual oversight.
+- **User Trust and Transparency:** Non-agentic systems are often more transparent, but agentic systems can build trust through responsiveness and tailored support—provided their decision-making processes are explainable.
+- **Educational Outcomes:** Research suggests that agentic AI can enhance learner engagement, motivation, and achievement by providing timely, adaptive support. However, the complexity of these systems introduces new challenges in monitoring, evaluation, and ethical oversight.
+
+### 7.3 Practical Considerations for Model and Framework Selection
+
+When selecting GenAI models and frameworks for educational use, institutions should consider:
+
+- The specific learning objectives and context (e.g., subject area, age group, assessment needs)
+- Data privacy, security, and compliance requirements
+- Technical capacity for deployment, customization, and maintenance
+- The importance of transparency, explainability, and user trust
+- Cost constraints and long-term sustainability
+
+By systematically comparing GenAI models and frameworks, educators and decision-makers can make informed choices that align with their pedagogical values, institutional priorities, and the needs of their learners.
 
 ## 8. Future Directions
 
