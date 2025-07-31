@@ -210,15 +210,19 @@ By proactively addressing these opportunities and challenges, educational instit
 
 Comparative analyses are essential for understanding the strengths, limitations, and suitability of different generative AI models and frameworks in educational contexts. This section provides a deeper examination of key GenAI models and the distinction between agentic and non-agentic systems, highlighting their implications for teaching, learning, and institutional adoption.
 
-### 7.1 Comparison of GenAI Models
+### Comparison of GenAI Models
 
 Generative AI models vary significantly in their architecture, capabilities, and openness. The most prominent models in education include proprietary systems like OpenAI’s GPT series, Anthropic’s Claude, and a range of open-source alternatives such as Llama and Mistral. Key comparative dimensions include:
 
-- **Language Fluency and Comprehension:** GPT-4 and Claude are recognized for their advanced natural language understanding, producing coherent, contextually relevant, and human-like responses. Open-source models have made rapid progress, but may lag slightly in nuanced comprehension or creative generation, depending on training data and scale.
-- **Customizability and Control:** Open-source models (e.g., Llama, Mistral) offer greater flexibility for fine-tuning, domain adaptation, and on-premises deployment, which is valuable for institutions with specific curricular needs or data privacy requirements. Proprietary models often restrict customization but provide robust, out-of-the-box performance.
-- **Transparency and Explainability:** Open-source models allow for greater inspection of model architecture and training data, supporting transparency and research. Proprietary models are typically less transparent, which can be a concern for educators seeking to understand or audit AI-generated outputs.
-- **Cost and Accessibility:** Open-source models can be deployed at lower cost, especially at scale, and do not require ongoing licensing fees. However, they may require more technical expertise to implement and maintain. Commercial models offer managed services and technical support, but costs can be prohibitive for some institutions.
-- **Ethical and Privacy Considerations:** Institutions must weigh the trade-offs between data privacy, security, and compliance. Open-source models can be run locally, minimizing data exposure, while commercial models may process data externally, raising privacy concerns.
+- **Language Fluency and Comprehension:** This refers to the model’s ability to understand context, generate coherent and contextually appropriate responses, and handle complex language tasks. GPT-4 and Claude are recognized for their advanced natural language understanding, producing responses that are not only grammatically correct but also nuanced and relevant to the educational context. These models excel at tasks such as essay writing, summarization, and answering open-ended questions. Open-source models like Llama and Mistral have made rapid progress, but may still lag in handling subtle nuances, idiomatic expressions, or highly creative tasks, especially if trained on smaller or less diverse datasets. For educators, high language fluency ensures that AI-generated content is clear, accurate, and suitable for instructional use.
+
+- **Customizability and Control:** This dimension addresses how easily a model can be adapted to specific institutional needs. Open-source models (e.g., Llama, Mistral) offer greater flexibility for fine-tuning on proprietary datasets, domain adaptation for specialized subjects, and on-premises deployment to meet data privacy requirements. Institutions can modify these models to align with their curriculum, language preferences, or pedagogical goals. In contrast, proprietary models like GPT-4 and Claude often restrict customization, offering only limited parameter adjustments or API-based access. While these commercial models provide robust, out-of-the-box performance, they may not fully accommodate unique educational requirements or local regulations.
+
+- **Transparency and Explainability:** Transparency refers to the ability to inspect and understand how a model works, including its architecture, training data, and decision-making processes. Open-source models allow educators and researchers to examine the underlying code and datasets, supporting transparency, reproducibility, and research. This is particularly important for auditing AI-generated outputs, identifying potential biases, and ensuring accountability. Proprietary models, on the other hand, are typically less transparent, with limited information about their inner workings. This opacity can be a concern for educators who need to justify or explain AI-generated recommendations to students, parents, or administrators.
+
+- **Cost and Accessibility:** The financial and logistical aspects of deploying GenAI models are critical for educational institutions. Open-source models can be deployed at lower cost, especially at scale, since they do not require ongoing licensing fees and can be run on local infrastructure. However, they may require more technical expertise for setup, maintenance, and updates. Commercial models like GPT-4 and Claude offer managed services, technical support, and regular updates, but their subscription or usage-based pricing can be prohibitive for some schools or universities, particularly in resource-constrained settings. Accessibility also includes the ease of integration with existing educational platforms and tools.
+
+- **Ethical and Privacy Considerations:** This dimension encompasses the protection of student data, compliance with regulations, and the ethical use of AI in education. Open-source models can be run locally or within a private cloud, minimizing data exposure and giving institutions greater control over sensitive information. This is especially important for compliance with data protection laws such as GDPR or FERPA. Commercial models may process data externally, raising concerns about data security, consent, and potential misuse. Institutions must carefully evaluate the trade-offs between convenience and control, ensuring that AI deployments align with ethical standards and safeguard the rights and privacy of all learners.
 
 **Table 1. Comparative Overview of GenAI Models in Education**
 
@@ -229,7 +233,7 @@ Generative AI models vary significantly in their architecture, capabilities, and
 | Llama (Meta)       | Good             | High            | High         | Low/Medium | High            |
 | Mistral            | Good             | High            | High         | Low/Medium | High            |
 
-### 7.2 Agentic vs. Non-Agentic Frameworks
+### Agentic vs. Non-Agentic Frameworks
 
 The distinction between agentic and non-agentic AI frameworks is critical in shaping educational experiences:
 
@@ -242,7 +246,7 @@ The distinction between agentic and non-agentic AI frameworks is critical in sha
 - **User Trust and Transparency:** Non-agentic systems are often more transparent, but agentic systems can build trust through responsiveness and tailored support—provided their decision-making processes are explainable.
 - **Educational Outcomes:** Research suggests that agentic AI can enhance learner engagement, motivation, and achievement by providing timely, adaptive support. However, the complexity of these systems introduces new challenges in monitoring, evaluation, and ethical oversight.
 
-### 7.3 Practical Considerations for Model and Framework Selection
+### Practical Considerations for Model and Framework Selection
 
 When selecting GenAI models and frameworks for educational use, institutions should consider:
 
