@@ -172,6 +172,17 @@ The integration of generative AI into education brings forth a wealth of opportu
 
 ### Opportunities
 
+**Table 2. Opportunities and Challenges of Generative AI in Education**
+
+| Opportunities                        | Challenges                                  |
+| ------------------------------------ | ------------------------------------------- |
+| Personalized learning at scale       | Academic integrity and ethical concerns     |
+| Enhanced creativity and engagement   | Bias and fairness                           |
+| Efficiency and productivity          | Data privacy and security                   |
+| Data-driven insights for instruction | Changing roles and professional development |
+| Accessibility and inclusion          | Transparency and explainability             |
+|                                      | Resource and infrastructure gaps            |
+
 - **Personalized Learning at Scale:** GenAI enables the creation of adaptive learning pathways, allowing instruction and materials to be tailored to each student’s needs, pace, and interests. By leveraging real-time data and learner analytics, GenAI can identify individual strengths and weaknesses, recommend targeted resources, and adjust content difficulty dynamically. This level of personalization helps close achievement gaps, supports differentiated instruction, and ensures that students—including those with special educational needs—receive the right support at the right time. As a result, learners are more likely to stay motivated, achieve mastery, and progress at their own optimal pace.
 
 - **Enhanced Creativity and Engagement:** By automating routine tasks and generating novel content, GenAI frees educators to focus on higher-order teaching and fosters student creativity. Students can co-create stories, art, music, and projects with AI, leading to deeper engagement and new forms of expression. GenAI tools can inspire students to experiment with ideas, visualize abstract concepts, and collaborate on creative projects that blend human and machine-generated content. This not only enhances engagement but also cultivates critical thinking, problem-solving, and digital literacy skills essential for the future workforce.
