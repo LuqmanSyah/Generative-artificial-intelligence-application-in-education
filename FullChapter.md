@@ -192,13 +192,17 @@ The integration of generative AI into education brings forth a wealth of opportu
 
 ### Practical Considerations
 
-To maximize the benefits and minimize the risks of GenAI in education, stakeholders should:
+- To maximize the benefits and minimize the risks of GenAI in education, stakeholders should:
 
-- Establish clear ethical guidelines and policies for AI use in learning environments.
-- Invest in teacher training and support to build confidence and competence with GenAI tools.
-- Engage students in discussions about responsible AI use, digital citizenship, and critical evaluation of AI-generated content.
-- Foster interdisciplinary collaboration among educators, technologists, and policymakers to ensure that GenAI solutions are pedagogically sound and contextually appropriate.
-- Continuously monitor, evaluate, and refine GenAI implementations based on feedback and emerging evidence.
+* **Establish clear ethical guidelines and policies for AI use in learning environments:** Institutions should develop comprehensive policies that define acceptable and unacceptable uses of GenAI, address issues such as academic integrity, data privacy, and consent, and provide clear procedures for handling violations. These guidelines should be regularly updated to reflect technological advances and evolving ethical standards, ensuring that all stakeholders understand their responsibilities and the boundaries of AI use in education.
+
+* **Invest in teacher training and support to build confidence and competence with GenAI tools:** Ongoing professional development is essential for educators to effectively integrate GenAI into their teaching practice. Training should cover both technical skills (e.g., using AI-powered platforms, interpreting AI-generated insights) and pedagogical strategies (e.g., designing AI-augmented lessons, managing classroom dynamics). Providing access to support networks, resources, and mentorship can help teachers stay current and confident as AI technologies evolve.
+
+* **Engage students in discussions about responsible AI use, digital citizenship, and critical evaluation of AI-generated content:** Students should be taught not only how to use GenAI tools, but also how to critically assess their outputs, recognize potential biases, and understand the ethical implications of AI in learning. Incorporating digital citizenship education helps students become responsible, informed users who can navigate the opportunities and challenges of AI-enhanced environments with integrity and discernment.
+
+* **Foster interdisciplinary collaboration among educators, technologists, and policymakers to ensure that GenAI solutions are pedagogically sound and contextually appropriate:** Effective GenAI integration requires input from multiple perspectives. Collaboration between teachers, AI developers, instructional designers, and policy experts ensures that AI tools are aligned with educational goals, culturally relevant, and sensitive to the needs of diverse learners. Such partnerships can also facilitate the co-design of innovative solutions and the sharing of best practices across institutions.
+
+* **Continuously monitor, evaluate, and refine GenAI implementations based on feedback and emerging evidence:** Regular assessment of GenAI tools and practices is crucial to ensure they are meeting educational objectives and not introducing unintended harms. Institutions should collect feedback from teachers, students, and other stakeholders, analyze learning outcomes, and stay informed about new research and technological developments. This iterative approach allows for timely adjustments, promotes accountability, and supports the responsible scaling of GenAI in education.
 
 By proactively addressing these opportunities and challenges, educational institutions can harness the transformative power of generative AI while safeguarding the interests and well-being of all learners.
 
