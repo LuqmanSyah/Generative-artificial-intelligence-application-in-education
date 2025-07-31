@@ -1,5 +1,11 @@
 # Generative Artificial Intelligence Application in Education
 
+## Abstract
+
+This chapter examines the transformative impact of generative artificial intelligence (GenAI) on education, focusing on how large language models, text-to-image generators, and multimodal AI systems are reshaping teaching, learning, and assessment. It explores the integration of GenAI tools into learning management systems, the emergence of AI-powered tutoring agents, and the creation of adaptive, personalized learning materials. The chapter discusses both the opportunities—such as enhanced creativity, efficiency, and equity—and the challenges, including academic integrity, data privacy, and bias mitigation, that accompany GenAI adoption. Through comparative analyses, practical case studies, and critical reflection, the chapter provides actionable insights for educators, technologists, and policymakers seeking to responsibly harness GenAI’s potential in diverse educational contexts.
+
+**Keywords:** generative artificial intelligence, education, large language models, personalized learning, AI-powered tutoring, academic integrity, multimodal AI, educational technology
+
 ## 1. Introduction
 
 The rapid advancement of artificial intelligence (AI) is profoundly transforming the educational landscape. Among the most significant developments is the emergence of generative AI (GenAI), which encompasses technologies capable of autonomously creating text, images, code, and other content. These innovations are not only enhancing the efficiency of educational processes but are also reshaping the roles of teachers and learners. This chapter explores the importance of generative AI in education, outlining its potential to personalize learning, automate assessment, and foster creativity. The objectives are to provide a comprehensive overview of GenAI’s theoretical foundations, practical applications, and the challenges it presents, while offering guidance for educators, technologists, and policymakers. The chapter is structured to cover foundational concepts, technologies, applications, case studies, opportunities and challenges, comparative analyses, future directions, and references.
